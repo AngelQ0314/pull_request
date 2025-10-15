@@ -2,6 +2,6 @@
 
 | Nº | Nombres | Apellidos |
 |----|----------|-----------|
-| 1  | Angel    |           |
-| 2  | Jorge    |           |
-| 3  | Alan     |           |
+| 1  | Angel    | Quishpe   |
+| 2  | Jorge    | Escobar   |
+| 3  | Alan     | Rivera    |
